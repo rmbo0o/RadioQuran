@@ -43,29 +43,5 @@ The website contains Quran radio stations, including:
 
 ---
 
-## 🔥 كيفية تنزيل وتشغيل المشروع | How to Download & Run the Project
-
-### 📥 تحميل المشروع | Download the Project
-
-```bash
-git clone https://github.com/Abooelnaga/RadioQuran.git 
-cd Quran-Radios
-```
-
-### ▶️ تشغيل المشروع | Run the Project
-
-يمكنك تشغيل الموقع بسهولة عن طريق فتح `index.html` في متصفحك.
-You can run the website by opening `index.html` in your browser.
-
----
-
-## 📬 تواصل معي | Contact Me
-
-📢 لمزيد من المعلومات أو الاقتراحات، تواصل معي عبر تيليجرام:
-
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moonaga)
-
----
-
 🎉 **شكراً لزيارتك! لا تنسَ دعم المشروع والمشاركة!**
 
